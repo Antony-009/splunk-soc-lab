@@ -98,4 +98,9 @@ By analyzing authentication logs, repeated login failures can be detected and in
 
 ---
 
-Tell me when you’re ready — I’ll give you the investigation report template next 🔥
+📸 Detection Screenshots
+Raw Failed Login Events
+
+IP Extraction
+
+Brute Force Detection
